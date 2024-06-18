@@ -1,4 +1,3 @@
-2
 contacts={"Swetha":{"Phone":"1234567890","Email":"swe1234@gmail.com","Address":"123 nehru St"},
                 "Siddhu":{"Phone":"0987654321","Email":"sid1234@gmail.com","Address":"123 nehru St"}}
 def add_contact():
